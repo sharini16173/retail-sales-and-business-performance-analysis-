@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Analytics Dashboard
+# 📊 Retail Sales And Business Performance Analysis
 
  **A data analytics portfolio project identifying profit leaks, optimizing discount strategies, and boosting retail margins using Python.**
 
